@@ -29,3 +29,4 @@ def power(a, b):
 # Work in progress
 def new_feature():
         pass
+# Critical fix
