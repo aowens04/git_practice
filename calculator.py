@@ -1,5 +1,6 @@
 # Simple Calculator
 
+
 def add(a,b):
         return a + b
 
@@ -8,6 +9,7 @@ def subtract(a,b):
 
 if __name__ == "__main__":
         print("Calculator loaded!")
+        print('Calculator ready!')
         print(f"5 + 3 = {add(5,3)}")
         print(f"10 - 4 = {subtract(10, 4)}")
 
@@ -23,4 +25,4 @@ def power(a, b):
         return a ** b
 
 'EOF'
-print('Calculator ready!')
+
