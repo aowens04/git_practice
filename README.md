@@ -20,3 +20,5 @@ Learning Git and GitHub for the first time!
 ## Takeaways
 - check status often
 - pull before beginning work
+## Work in Progress
+Currently adding a new feature

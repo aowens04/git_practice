@@ -26,3 +26,6 @@ def power(a, b):
 
 'EOF'
 
+# Work in progress
+def new_feature():
+        pass
