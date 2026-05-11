@@ -13,6 +13,8 @@ Learning Git and GitHub for the first time!
 - Calculator with basic math operations
 - Error handling for division by zero
 
+## Updated from GitHub
+
 ## Technologies
 - Python 3
 - Git & GitHub
