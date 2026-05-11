@@ -16,3 +16,7 @@ Learning Git and GitHub for the first time!
 ## Technologies
 - Python 3
 - Git & GitHub
+
+## Takeaways
+- check status often
+- pull before beginning work
