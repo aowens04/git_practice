@@ -14,9 +14,12 @@ if __name__ == "__main__":
 def multiply(a,b):
         a * b
 
-'EOF'
-
 def divide(a,b):
         if b == 0:
                 return "Error: Cannot divide by zero"
         return a / b
+
+def power(a, b):
+        return a ** b
+
+'EOF'
