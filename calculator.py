@@ -23,3 +23,4 @@ def power(a, b):
         return a ** b
 
 'EOF'
+print('Calculator ready!')
