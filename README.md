@@ -22,5 +22,10 @@ Learning Git and GitHub for the first time!
 ## Takeaways
 - check status often
 - pull before beginning work
+
 ## Work in Progress
 Currently adding a new feature
+
+## Development Environment
+- Using Visual Studio Code for Git integration
+- VS Code provides a visual interface for Git operations
