@@ -31,4 +31,5 @@ Currently adding a new feature
 - VS Code provides a visual interface for Git operations
 
 ## Testing Branch Protection
-This change should be blcoked by branch protection!
+- This change was approved!
+- Making changes from the Git CLI
