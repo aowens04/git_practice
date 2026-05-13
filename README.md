@@ -30,5 +30,6 @@ Currently adding a new feature
 - Using Visual Studio Code for Git integration
 - VS Code provides a visual interface for Git operations
 
-## Testing branch protections
+## Testing Branch Protection
+- This change was approved!
 - Making changes from the Git CLI
